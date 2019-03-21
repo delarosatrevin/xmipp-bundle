@@ -1,0 +1,15 @@
+[submodule "src/xmipp"]
+	path = src/xmipp
+	url = https://github.com/I2PC/xmipp.git
+[submodule "src/xmippCore"]
+	path = src/xmippCore
+	url = https://github.com/I2PC/xmippCore.git
+[submodule "src/xmippViz"]
+	path = src/xmippViz
+	url = https://github.com/I2PC/xmippViz.git
+[submodule "src/scipion-em-xmipp"]
+	path = src/scipion-em-xmipp
+	url = https://github.com/I2PC/scipion-em-xmipp.git
+[submodule "src/cuFFTAdvisor"]
+	path = src/cuFFTAdvisor
+	url = https://github.com/DStrelak/cuFFTAdvisor.git
