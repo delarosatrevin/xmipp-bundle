@@ -11,7 +11,7 @@ Each of them are treated here as submodules.
 ### Clone all submodules recursively
 
 ```
-> git clone --recurse-submodules git@github.com:delarosatrevin/xmipp-bundle.git
+> git clone --recurse-submodules https://github.com/delarosatrevin/xmipp-bundle.git
 > cd xmipp-bundle
 ```
 
